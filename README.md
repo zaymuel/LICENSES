@@ -1,2 +1,13 @@
 # LICENSES
-Collection of copy-paste licenses
+
+Collection of copy-paste licenses, formatted and ready for production use. No need to cite this repository, which is under the Public Domain; cite only the license you choose. E.g.
+
+> "Licensed under CC-BY-NC-SA"
+
+> "Licensed under CC-BY-NC-SA 4.0"
+
+**Important:** Please change the content inside the brackets - `[]` - to the requested information:
+
+1. the licensing year;
+2. your name/nickname; and
+3. your GitHub username.
