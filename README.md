@@ -8,6 +8,6 @@ Collection of copy-paste licenses, formatted and ready for production use. No ne
 
 **Important:** Please change the content inside the brackets - `[]` - to the requested information:
 
-1. the licensing year;
-2. your name/nickname; and
-3. your GitHub username.
+1. the licensing year `[YEAR]`;
+2. your name/nickname `[YOUR_NAME]`; and
+3. your GitHub username `[YOUR_GITHUB_USERNAME]`.
